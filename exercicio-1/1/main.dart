@@ -17,3 +17,4 @@ void main() {
 double readDoubleLine() {
   return double.parse(stdin.readLineSync()!);
 }
+
